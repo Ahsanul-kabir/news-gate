@@ -4,7 +4,7 @@ import { FaRegComment } from "react-icons/fa";
 import { MdDateRange } from "react-icons/md";
 import banner1 from "../../images/banner1.jpg";
 import banner2 from "../../images/banner2.jpg";
-import banner3 from "../../images/banner3.jpeg";
+import banner3 from "../../images/banner3.jpg";
 import TopNews from "../TopNews.jsx/TopNews";
 import "./Header.css";
 const Header = () => {
